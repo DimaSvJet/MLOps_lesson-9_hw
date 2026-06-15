@@ -11,7 +11,7 @@ spec:
   source:
     repoURL: https://github.com/DimaSvJet/MLOps_lesson-9_hw.git
     targetRevision: master
-    path: minio
+    path: mlops-experiments/minio
 
   destination:
     server: https://kubernetes.default.svc
