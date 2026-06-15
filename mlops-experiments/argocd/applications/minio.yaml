@@ -9,7 +9,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/DimaSvJet/MLOps_lesson-5-6.git
+    repoURL: https://github.com/DimaSvJet/MLOps_lesson-9_hw.git
     targetRevision: master
     path: minio
 
