@@ -1,0 +1,7 @@
+mlflow
+scikit-learn
+prometheus-client
+joblib
+python-dotenv
+psycopg2-binary
+boto3
